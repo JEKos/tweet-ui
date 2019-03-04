@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+	package
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:19:5-46
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:18:1-34:12
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:20:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:24:5-32:19
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:25:9-28:48
+	android:configChanges
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:26:13-43
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:29:9-31:48
+	android:theme
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml:30:13-44
+uses-sdk
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+		ADDED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
+		INJECTED from /Users/jek/GitHub/Android/p-more-android-app/tweet-ui/src/main/AndroidManifest.xml
